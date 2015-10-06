@@ -1,6 +1,8 @@
 # Ya.Sponsor
 
-![ ] (https://github.com/ruan65/Ya.Sponsor/blob/master/app/src/main/res/mipmap-xxhdpi/ic_launcher.png "Ya.Sponsor")
+Source coded moved to Bitbucket
+
+![ ] (https://github.com/ruan65/Ya.Sponsor/blob/master/ic_launcher.png "Ya.Sponsor")
 
 [Video] (https://youtu.be/uBPCJoiMQdE "Video")
 
